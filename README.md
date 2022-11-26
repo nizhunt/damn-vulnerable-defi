@@ -2,7 +2,7 @@
 
 **A set of challenges to learn offensive security of smart contracts in Ethereum.**
 
-Featuring flash loans, price oracles, governance, NFTs, lending pools, smart contract wallets, timelocks, and more!
+Solved. Solutions in [test-folder](test), attack smart contracts in [attacker-contracts](contracts/attacker-contracts)
 
 ## Play
 
